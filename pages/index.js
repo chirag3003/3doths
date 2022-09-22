@@ -37,7 +37,7 @@ export default function Home() {
                             <h2>Minimalist</h2>
                         </div>
                         <div className="body">
-                            We're a creative branding studio <br/> dedicated to creating high-end
+                            We&apos;re a creative branding studio <br/> dedicated to creating high-end
                             <br/>
                             design resources
                         </div>

@@ -1,0 +1,30 @@
+nav{
+    font-family: var(--font-nav);
+    display:flex;
+    padding: 30px 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .logo h1{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+nav .items{
+    display:flex;
+    justify-content: space-between;
+}
+.nav-item{
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin:10px;
+}
+nav button{
+    padding: 15px 30px;
+    font-weight: bold;
+    font-size: 1rem;
+    background: black;
+    border-radius: 50px;
+    color:white;
+    outline: none;
+    border:none;
+}
